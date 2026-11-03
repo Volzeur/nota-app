@@ -8,7 +8,7 @@ Web app untuk mengelola transaksi toko
 
 ### 1. Download Project
 
-> Download folder project [Google Drive](https://drive.google.com/drive/folders/1HLNesRkd6mN1ub6TYv_4RkP_OlvW4XWc?usp=sharing) untuk dapetin API key.
+> Download folder project [Google Drive](https://drive.google.com/drive/folders/1HLNesRkd6mN1ub6TYv_4RkP_OlvW4XWc?usp=sharing)
 extract ke folder Laragon kalian (`C:\laragon\www\`).
 
 ---
