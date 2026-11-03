@@ -1,5 +1,3 @@
-<img width="344" height="234" alt="image" src="https://github.com/user-attachments/assets/321b4b16-0bd2-4cbb-8493-e69ccfb46c54" /># nota-app
-
 Web app untuk mengelola transaksi toko
 
 ---
