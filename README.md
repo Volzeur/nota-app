@@ -7,7 +7,8 @@ Web app untuk mengelola transaksi toko
 ### 1. Download Project
 
 > Download folder project [Google Drive](https://drive.google.com/drive/folders/1HLNesRkd6mN1ub6TYv_4RkP_OlvW4XWc?usp=sharing)
-> <img width="344" height="234" alt="image" src="https://github.com/user-attachments/assets/690e31e8-07d3-4aad-ba6c-1e0d49aa0eab" />
+
+<img width="344" height="234" alt="image" src="https://github.com/user-attachments/assets/690e31e8-07d3-4aad-ba6c-1e0d49aa0eab" />
 
 extract ke folder Laragon kalian (`C:\laragon\www\`).
 
